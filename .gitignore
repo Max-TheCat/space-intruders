@@ -1,3 +1,6 @@
+# Space Intruders game settings
+game-settings.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
