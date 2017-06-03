@@ -20,7 +20,7 @@ def run_game():
 
     # Main game loop
     while True:
-        game_functions.check_events(ship)
+        game_functions.check_events(ship, elements)
         game_functions.update_positions(elements)
         game_functions.refresh_screen(screen, game_settings.background_color, elements)
 
